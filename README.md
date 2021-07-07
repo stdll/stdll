@@ -6,7 +6,7 @@ My career is based on Java and related frameworks, especially the [Spring](https
 I'm a Lead IT Consultant at [@msg-systems](https://github.com/msg-systems).
 I'm especially interested in:
 
-- 🔭 designing system architectures,
+- 🏗️ designing system architectures,
 - 📝 writing documentation,
 - 💻 coding,
 - 🤝 bringing together IT architecture and software development.
