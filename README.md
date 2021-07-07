@@ -13,8 +13,8 @@ I'm especially interested in:
 
 Personally I'm dabbling in other fields:
 
-- 🎮 game development with [Godot](https://github.com/godotengine),
-- 🏡 home automation with [openHAB](https://github.com/openhab),
+- 🎮 game development with [@godotengine](https://github.com/godotengine),
+- 🏡 home automation with [@openhab](https://github.com/openhab),
 - 📷 photography.
 
 I'm looking on collaborating on aforementioned open source projects (and others) to support them as they've supported me and my career.
