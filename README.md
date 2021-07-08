@@ -17,7 +17,7 @@ Personally I'm dabbling in other fields:
 - 🏡 home automation with [@openhab](https://github.com/openhab),
 - 📷 photography.
 
-I'm looking on collaborating on aforementioned open source projects (and others) to support them as they've supported me and my career.
+I'm looking on collaborating on aforementioned open source projects (and others) to support them as they've supported and inspired me.
 
 
 <!--
