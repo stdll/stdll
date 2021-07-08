@@ -3,7 +3,7 @@
 I'm a professional developer and software architect since almost 15 years.
 My career is based on Java and related frameworks, especially the [Spring](https://spring.io/) ecosystem.
 
-I'm a Lead IT Consultant at [@msg-systems](https://github.com/msg-systems).
+I'm working as a software architect and team lead at [@msg-systems](https://github.com/msg-systems).
 I'm especially interested in:
 
 - 🏗️ designing system architectures,
