@@ -9,7 +9,7 @@ I'm especially interested in:
 - 🏗️ designing system architectures,
 - 📝 writing documentation,
 - 💻 coding,
-- 🤝 bringing together IT architecture and software development.
+- 🤝 bringing together IT architecture and software engineering.
 
 Personally I'm dabbling in other fields:
 
