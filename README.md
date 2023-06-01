@@ -1,6 +1,6 @@
 ## Hi everyone! 👋
 
-I've been a professional developer since 15 years and software architect since 5 years.
+I've been a professional developer since 15+ years and software architect since 5+ years.
 My career is based on Java, its massive ecosystem of libraries as well as tools and other technologies based on the JVM.
 
 I'm currently working as a software architect and team lead at [@msg-systems](https://github.com/msg-systems).
