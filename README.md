@@ -13,9 +13,9 @@ I'm especially interested in:
 
 Personally I'm dabbling in other fields:
 
-- 🎮 game development with [@godotengine](https://github.com/godotengine),
-- 🏡 home automation with [@openhab](https://github.com/openhab),
-- 📷 photography.
+- 🧠 personal knowledge management with [Obsidian.md](https://github.com/obsidianmd),
+- 🎮 game development with [Godot Engine](https://github.com/godotengine),
+- 🏡 home automation with [openHAB](https://github.com/openhab).
 
 I'm looking on collaborating on aforementioned open source projects (and others) to support them as they've supported and inspired me.
 
