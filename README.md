@@ -14,6 +14,7 @@ I'm especially interested in:
 Personally I'm dabbling in other fields:
 
 - 🧠 personal knowledge management with [Obsidian.md](https://github.com/obsidianmd),
+- 📷 virtual photography with [ReShade](https://github.com/crosire/reshade),
 - 🎮 game development with [Godot Engine](https://github.com/godotengine),
 - 🏡 home automation with [openHAB](https://github.com/openhab).
 
